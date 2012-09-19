@@ -37,3 +37,4 @@ function Git-Init($project, $username = 'ChrisJones0099') {
 #Aliases
 Set-Alias -Name subl -Value Edit-UsingSublimeText2
 Set-Alias -Name go -Value Goto-Projects
+Set-Alias -Name fs -Value Find-Solution
